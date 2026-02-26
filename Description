@@ -1,0 +1,69 @@
+🎬 Netflix Content Analysis – Power BI Dashboard
+📌 Project Overview
+
+This project presents an interactive Power BI dashboard built to analyze Netflix’s content distribution, release trends, and audience segmentation strategy using real-world data.
+
+The goal of this project was to transform raw data into actionable business insights using data cleaning, visualization, and DAX measures.
+
+🎯 Business Objectives
+
+Analyze distribution of Movies vs TV Shows
+
+Identify top content-producing countries
+
+Study yearly content release trends
+
+Understand rating-based audience targeting
+
+Create an interactive dashboard with slicers
+
+🛠 Tools & Technologies Used
+
+Power BI Desktop
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Data Analysis Expressions)
+
+Data Visualization & KPI Design
+
+📊 Dashboard Features
+
+KPI Cards (Total Titles, Movies, TV Shows)
+
+Pie Chart (Movies vs TV Shows Distribution)
+
+Bar Chart (Content by Country)
+
+Line Chart (Release Trend Analysis)
+
+Rating Distribution Analysis
+
+Interactive Slicers (Country, Year, Type)
+
+🔍 Key Insights
+
+Over 70% of the content consists of Movies, indicating a movie-dominant platform strategy.
+
+The United States leads content production, followed by other global markets.
+
+A peak in content addition was observed between 2018–2020.
+
+TV Shows have shown steady growth, reflecting evolving viewer preferences.
+
+Majority content falls under TV-MA and TV-14 ratings, targeting mature audiences.
+
+📈 Business Understanding
+
+This analysis highlights Netflix’s strategic content expansion phase and its focus on mature audiences while gradually increasing episodic content to adapt to global streaming trends.
+
+📂 Project Files
+
+Netflix_Content_Analysis.pbix
+
+netflix_titles.csv
+
+👨‍💻 Author
+
+Honey Chauhan
+Aspiring Data Analyst | Power BI | SQL | Python
