@@ -24,7 +24,7 @@ An interactive dashboard was built to explore content distribution, genres, rati
 ---
 
 ## 📸 Dashboard Preview
-
+https://1drv.ms/i/c/c180c166aad5a2de/IQCteMh93VaTSLyQQSzkCvhkAQpHKCB68QkqoEC-DzOKuag?e=pp879V
 
 ---
 
