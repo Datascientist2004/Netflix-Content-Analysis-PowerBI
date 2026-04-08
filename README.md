@@ -24,7 +24,7 @@ An interactive dashboard was built to explore content distribution, genres, rati
 ---
 
 ## 📸 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
+
 
 ---
 
@@ -81,8 +81,8 @@ This project helps in:
 ---
 
 ## 🔗 Portfolio & Contact
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/Datascientist2004
+- LinkedIn: https://linkedin.com/in/honey-chauhan-data-analyst 
 
 ---
 
